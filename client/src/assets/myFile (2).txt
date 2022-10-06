@@ -1,0 +1,10 @@
+Task Number :9	 , Processing Time : 19	 , Due  date : 74
+Task Number :1	 , Processing Time : 24	 , Due  date : 57
+Task Number :6	 , Processing Time : 23	 , Due  date : 96
+Task Number :10	 , Processing Time : 50	 , Due  date : 184
+Task Number :2	 , Processing Time : 1	 , Due  date : 144
+Task Number :7	 , Processing Time : 41	 , Due  date : 219
+Task Number :5	 , Processing Time : 4	 , Due  date : 162
+Task Number :4	 , Processing Time : 48	 , Due  date : 214
+Task Number :8	 , Processing Time : 18	 , Due  date : 235
+Task Number :3	 , Processing Time : 47	 , Due  date : 46

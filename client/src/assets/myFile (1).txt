@@ -1,0 +1,10 @@
+Task Number :3	 , Processing Time : 30	 , Due  date : 14	 , alpha   : 5	 , Beta : 6
+Task Number :4	 , Processing Time : 3	 , Due  date : 14	 , alpha   : 9	 , Beta : 2
+Task Number :7	 , Processing Time : 18	 , Due  date : 36	 , alpha   : 3	 , Beta : 4
+Task Number :6	 , Processing Time : 71	 , Due  date : 119	 , alpha   : 2	 , Beta : 3
+Task Number :1	 , Processing Time : 51	 , Due  date : 228	 , alpha   : 3	 , Beta : 1
+Task Number :2	 , Processing Time : 75	 , Due  date : 238	 , alpha   : 6	 , Beta : 1
+Task Number :8	 , Processing Time : 18	 , Due  date : 278	 , alpha   : 5	 , Beta : 4
+Task Number :10	 , Processing Time : 22	 , Due  date : 280	 , alpha   : 6	 , Beta : 4
+Task Number :5	 , Processing Time : 93	 , Due  date : 370	 , alpha   : 9	 , Beta : 1
+Task Number :9	 , Processing Time : 5	 , Due  date : 355	 , alpha   : 7	 , Beta : 1
